@@ -1,13 +1,13 @@
 # Precious Ukonu  
 
-### 🌱A Curious Mind in the World of Data  
+### 🌱A Curious Mind in the World of Data 
+**Data Analyst | Accountant | Building practical business solutions with data**
 
 I enjoy asking questions, solving problems, and discovering the stories hidden in data. Whether I'm cleaning messy datasets, reconciling financial records, or building dashboards, I find satisfaction in turning information into something useful.
 
 The internet has been my greatest classroom. Through consistent self-learning and practice, I've developed skills in Excel, SQL, Python, Power BI, and Tableau while applying them to real-world problems in my day-to-day work.
 
-I'm currently working as an Accountant, where I work with financial and inventory data every day. Outside work, I'm building an Inventory & Accounting Automation System—a project inspired by the challenges I've seen businesses face with manual record-keeping. My goal is to create practical tools that make business operations simpler, faster, and more reliable.
-
+I'm currently working as an Accountant, where I work with financial and inventory data every day. My goal is to build practical tools that make business operations simpler, faster, and more reliable.
 I'm still learning, still building, and still curious. Every project teaches me something new, and every problem is another opportunity to improve.
 
 ---
@@ -20,25 +20,30 @@ Before moving into accounting, I worked in customer service, where I learned how
 ---
 
 ### 🚀 Current Focus 
-Right now, I'm focused on building practical solutions that improve business operations through data.
+I'm currently building an **Inventory & Accounting Automation System** for small businesses. The project aims to simplify inventory management, sales tracking, and financial reporting using Microsoft Excel while reducing repetitive manual work.
 
-My current project is an Inventory & Accounting Automation System for small businesses. The goal is to simplify inventory management, sales tracking, and financial reporting using Microsoft Excel while reducing repetitive manual work.
-
-Beyond that, I continue to improve my skills through data projects, exploring new tools, and applying what I learn to real business problems.
+Alongside this, I continue to improve my skills by working on data projects, exploring new technologies, and applying analytics to real business challenges.
 
 ---
 
 ### 🛠️ Tools & Skills  
-- **Python** for data analysis (pandas, numpy, matplotlib)  
-- **SQL** for querying and data management  
-- **Power BI** and **Tableau** for visualization and dashboards  
-- **Microsoft Excel** for data cleaning and reporting  
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Microsoft Excel
+- Power BI
+- Tableau
+
+Areas of Interest
+- Data Analysis
+- Business Analytics
+- Financial Analytics
+- Inventory Analytics
+- Dashboard Development
 
 ---
 
 ### 🤝 Let’s Connect  
-I’m open to **data analyst roles** and collaborative projects.  
-Feel free to explore my repositories and check out my work and writing:
+I'm always open to connecting with people who enjoy solving problems with data, collaborating on meaningful projects, or discussing ideas around business analytics and automation.
 
 - [Medium](https://medium.com/@llycenth)  
 - [Twitter](https://x.com/Nonye_Uk)  
