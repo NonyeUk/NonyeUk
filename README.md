@@ -2,19 +2,29 @@
 
 ### 🌱A Curious Mind in the World of Data  
 
-I’m a **data nerd** who enjoys getting down and dirty with data—digging through raw information, exploring patterns, and discovering what’s possible when you let data guide the way.  
-The internet is my 🌐 oasis and my greatest teacher; it’s where I continue to learn, experiment, and sharpen my ability to discern, clean, and interpret information.
+I enjoy asking questions, solving problems, and discovering the stories hidden in data. Whether I'm cleaning messy datasets, reconciling financial records, or building dashboards, I find satisfaction in turning information into something useful.
 
-Over the past year, I’ve immersed myself in learning, practicing, and sharing my journey.  
-I’ve come a long way, but I’m far from satisfied.  
-The more I learn, the more I do—and the more I realize there’s still so much to explore.  
-📊 Data has a way of telling stories, and I’m here to listen and share those stories with clarity.
+The internet has been my greatest classroom. Through consistent self-learning and practice, I've developed skills in Excel, SQL, Python, Power BI, and Tableau while applying them to real-world problems in my day-to-day work.
+
+I'm currently working as an Accountant, where I work with financial and inventory data every day. Outside work, I'm building an Inventory & Accounting Automation System—a project inspired by the challenges I've seen businesses face with manual record-keeping. My goal is to create practical tools that make business operations simpler, faster, and more reliable.
+
+I'm still learning, still building, and still curious. Every project teaches me something new, and every problem is another opportunity to improve.
 
 ---
 
 ### 🎓 Background  
-I am a **Biochemistry graduate** and a **Data Analyst** with experience extracting raw data and transforming it into meaningful insights.  
-My journey began in **customer service**, where I developed the ability to understand user needs and communicate clearly—skills that now strengthen my approach to data analysis.
+I graduated with a Bachelor's degree in Biochemistry, but my curiosity led me into the world of data. What started as learning Excel eventually grew into working with SQL, Python, Power BI, and Tableau to analyze data and solve business problems.
+
+Before moving into accounting, I worked in customer service, where I learned how to communicate clearly, understand people's needs, and think from the user's perspective. Today, those experiences shape how I approach data—I don't just want to analyze information; I want to build solutions that people can actually use..
+
+---
+
+### 🚀 Current Focus 
+Right now, I'm focused on building practical solutions that improve business operations through data.
+
+My current project is an Inventory & Accounting Automation System for small businesses. The goal is to simplify inventory management, sales tracking, and financial reporting using Microsoft Excel while reducing repetitive manual work.
+
+Beyond that, I continue to improve my skills through data projects, exploring new tools, and applying what I learn to real business problems.
 
 ---
 
